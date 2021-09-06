@@ -1,0 +1,31 @@
+GIT COMMANDS
+# ls --> It will list all the directories.
+
+# git clone--> Used to clone the project. 
+
+# cd [name of the file]--> Used to open the directory.
+
+# touch[name of the file]-->To create a neqw file.
+
+# git add[name of the file]-->Adds the file with changes made to the staging area.
+
+# git add -->Adds all the files with changes to the staging area.
+
+# git status-->Gives thestutus of the files,like in which stages the files are.Red if in working area and
+ green if in staging area.
+
+# git restore-->Used to restore the specific version of the file.
+
+# git commit-->It moves the code to the repo stage and also it creates checkpoint.
+
+# git checkout -b  feature --> To create a branch of the main file with the name feature(here).
+
+# git checkout branch_name--> To change the branch to work on it.
+
+# git branch-->Tells in which branch we are on.
+
+# git push -u -->Used to push the on;y branch to the github. 
+
+# git pull-->Updates our local from the github where chnges are made by other team members.
+
+# git log-->Shows the hisotry of all the commits made by us(press(type)q to continue to amke changes).
